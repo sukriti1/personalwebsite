@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sukriti1/personalWebsite.git/static/css/main.2b29259e.chunk.css",
-    "main.js": "/sukriti1/personalWebsite.git/static/js/main.63002887.chunk.js",
-    "main.js.map": "/sukriti1/personalWebsite.git/static/js/main.63002887.chunk.js.map",
-    "runtime-main.js": "/sukriti1/personalWebsite.git/static/js/runtime-main.63678ce4.js",
-    "runtime-main.js.map": "/sukriti1/personalWebsite.git/static/js/runtime-main.63678ce4.js.map",
-    "static/css/2.e4346227.chunk.css": "/sukriti1/personalWebsite.git/static/css/2.e4346227.chunk.css",
-    "static/js/2.b0e192fb.chunk.js": "/sukriti1/personalWebsite.git/static/js/2.b0e192fb.chunk.js",
-    "static/js/2.b0e192fb.chunk.js.map": "/sukriti1/personalWebsite.git/static/js/2.b0e192fb.chunk.js.map",
-    "index.html": "/sukriti1/personalWebsite.git/index.html",
-    "precache-manifest.3769d4cb16827da3e15e1a24633245a9.js": "/sukriti1/personalWebsite.git/precache-manifest.3769d4cb16827da3e15e1a24633245a9.js",
-    "service-worker.js": "/sukriti1/personalWebsite.git/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/sukriti1/personalWebsite.git/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.2b29259e.chunk.css.map": "/sukriti1/personalWebsite.git/static/css/main.2b29259e.chunk.css.map",
-    "static/js/2.b0e192fb.chunk.js.LICENSE.txt": "/sukriti1/personalWebsite.git/static/js/2.b0e192fb.chunk.js.LICENSE.txt"
+    "main.css": "/personalWebsite.git/static/css/main.2b29259e.chunk.css",
+    "main.js": "/personalWebsite.git/static/js/main.f8e50ea3.chunk.js",
+    "main.js.map": "/personalWebsite.git/static/js/main.f8e50ea3.chunk.js.map",
+    "runtime-main.js": "/personalWebsite.git/static/js/runtime-main.8d3d69e8.js",
+    "runtime-main.js.map": "/personalWebsite.git/static/js/runtime-main.8d3d69e8.js.map",
+    "static/css/2.e4346227.chunk.css": "/personalWebsite.git/static/css/2.e4346227.chunk.css",
+    "static/js/2.b0e192fb.chunk.js": "/personalWebsite.git/static/js/2.b0e192fb.chunk.js",
+    "static/js/2.b0e192fb.chunk.js.map": "/personalWebsite.git/static/js/2.b0e192fb.chunk.js.map",
+    "index.html": "/personalWebsite.git/index.html",
+    "precache-manifest.d2f64edf96e726b67b2daeaa35d51f08.js": "/personalWebsite.git/precache-manifest.d2f64edf96e726b67b2daeaa35d51f08.js",
+    "service-worker.js": "/personalWebsite.git/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/personalWebsite.git/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.2b29259e.chunk.css.map": "/personalWebsite.git/static/css/main.2b29259e.chunk.css.map",
+    "static/js/2.b0e192fb.chunk.js.LICENSE.txt": "/personalWebsite.git/static/js/2.b0e192fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63678ce4.js",
+    "static/js/runtime-main.8d3d69e8.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.b0e192fb.chunk.js",
     "static/css/main.2b29259e.chunk.css",
-    "static/js/main.63002887.chunk.js"
+    "static/js/main.f8e50ea3.chunk.js"
   ]
 }
